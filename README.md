@@ -37,6 +37,3 @@ Contributions are welcome! Please follow the guidelines outlined in the [CONTRIB
 
 This repository is licensed under the [MIT License](LICENSE).
 
-=======
-# Lazy-SAAB
-Top 50 Cyber Attacks, It's analysis
